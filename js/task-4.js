@@ -1,7 +1,7 @@
 function getShippingCost(country) {
   let price = 0;
   switch (country) {
-    case 'Chnina':
+    case 'China':
       price = 100;
       break;
     case 'Chile':
